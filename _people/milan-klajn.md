@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - pms
 
 img: people/ppp.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: 2. místopředseda MS ZL, Pirát # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
