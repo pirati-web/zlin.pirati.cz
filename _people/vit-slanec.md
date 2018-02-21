@@ -6,11 +6,13 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: student # kratký popis, max 160 znaků
 mail:
 - vit.slanec@pirati.cz
 profiles:
-  facebook: https://www.facebook.com
+  facebook: https://www.facebook.com/vit.slanec.9
 ---
 
-xxx
+vít Slanec (*14. února 1995) je studentem oboru elektrikář - silnoproud.
+
+K Pirátům se přidal kvůli filosifii strany a stal se fotoreportérem z krajských ackí.
