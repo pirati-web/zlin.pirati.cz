@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - pms
 
 img: people/ppp.jpg   # 165 x 220
-description: referent obchodního oddělení # kratký popis, max 160 znaků
+description: 3. místopředseda MS ZL, referent obchodního oddělení # kratký popis, max 160 znaků
 mail:
 - matej.krajca@pirati.cz
 profiles:
