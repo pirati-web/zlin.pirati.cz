@@ -5,7 +5,7 @@ fullname: Kamil Podlas  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/kamil-podlas.jpg   # 165 x 220
 description: Pirát # kratký popis, max 160 znaků
 mail:
 - kamil.podlas@pirati.cz
