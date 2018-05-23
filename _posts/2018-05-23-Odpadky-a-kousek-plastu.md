@@ -24,7 +24,7 @@ Počet lidí v tomto dlouhodobě klesajícím trendu už ovšem neuvádí.
 Jisté negativa to s sebou však nese. Odpadla tak informace a připomenutí této povinnosti, především pro seniory a starší ročníky, kteří se v moderním prostředí často nepohybují jako ryby ve vodě. 
 A mnohdy nejsou pohyblivý ani po fyzické stránce. Částečně to kompenzuje snaha města předat informace také jinak, než jen na vývěsních tabulích. 
 
-„Plátci, kteří nahlásí do konce března svůj e-mail, obdrží veškeré potřebné údaje elektronickou poštou,“ uvedl Zdeněk Dvořák na webových stránkách [1]: www.zlin.eu. Novinky o letošních platbách proběhly také na sociálních sítích. 
+„Plátci, kteří nahlásí do konce března svůj e-mail, obdrží veškeré potřebné údaje elektronickou poštou,“ uvedl Zdeněk Dvořák na webových stránkách www.zlin.eu. Novinky o letošních platbách proběhly také na sociálních sítích. 
 Město se opravdu snaží předávat informace všemi (jím dostupnými) informačními možnostmi.
 Způsobů, jak zaplatit poplatky, nabízelo město více. Kromě platby hotovosti přímo na pokladnách a v kancelářích místních částí, také vkladem hotovosti v pokladně České spořitelny. Bezhotovostně pak bankovním převodem a přes platební terminál služby Portál občana. 
 
