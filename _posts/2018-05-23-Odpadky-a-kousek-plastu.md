@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Odpadky a kousek plastu'
-date: 2018-05-25T12:06:00.032Z
+date: 2018-05-25T10:06:00.032Z
 author: Irena Drofová
 authorId: irena.drofova
 image: /assets/img/posts/odpad2.jpg   
@@ -32,7 +32,6 @@ Možnost zaplatit platební kartou žádná. A to ani přes platební bránu, kd
 V současnosti naprosto běžná věc. Většina z nás platební kartu vlastní a využívá dnes a denně. 
 Zřejmě nejen my jsme byli překvapeni informací přímo před pokladnou zlínské radnice, že platba kartou není možná. 
  
-
 Zájem byl pravděpodobně velký, protože za necelé tři týdny, jsme v hale radnice objevili informaci, že na pokladně MMZ nelze platit kartou, a to z technických důvodů. Vytváří to lehce úsměvný dojem, že se MMZ se snaží kamuflovat fakt, že se tady podařilo trošku zaspat dobu. Tato možnost měla být k dispozici už několik let.
  
 
