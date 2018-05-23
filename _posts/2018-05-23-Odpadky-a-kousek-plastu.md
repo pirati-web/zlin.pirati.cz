@@ -8,12 +8,13 @@ authorId: irena.drofova
 image: /assets/img/posts/odpad2.jpg   
 tags: 'Magistrát města Zlína odpad platby karty piráti-zlín '
 ---
-Odpadky a kousek plastu
+### Odpadky a kousek plastu
+
 První kvartál či spíše první polovina roku bývá pro občany ve znamení plateb. 
 Přichází vyúčtování za služby a platí se poplatky obcím. A právě města a obce by měla na své obyvatele myslet. 
 Pokud se město rozhodně zrušit jednu z možností pro své obyvatele, měla by následně také přijít alternativa, která ji nahradí. 
 A to především proto, že argumentuje zbytečnými výdaji a rozhodně se ušetřit. 
-Magistrát města Zlína (MMZ) letos nerozesílal složenky nejen na platbu komunálního odpadu. 
+**Magistrát města Zlína (MMZ)** letos nerozesílal složenky nejen na platbu komunálního odpadu. 
 Je to vůle města ušetřit zbytečné náklady, což je jistě pozitivní krok.  
 „Město Zlín ročně tisklo a distribuovalo kolem pětatřiceti tisíc složenek, což stálo více než tři čtvrtě milionu korun. 
 Dlouhodobě přitom klesá počet lidí, kteří složenku k platbě používali. 
