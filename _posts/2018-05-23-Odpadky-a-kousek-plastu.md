@@ -33,8 +33,6 @@ Zájem byl pravděpodobně velký, protože za necelé tři týdny, jsme v hale 
  
 
 Město Zlín tedy zrušilo složenky. Ušetřilo za tisk a distribuci. A ne málo. Proč tedy tyto peníze nevynaložilo na rozšíření platby kartou už v tomto roce? Tak třeba příští rok. Uvidíme.
-Autor: Irena Drofová
-Foto: Irena Drofová
 
 
 - - -
