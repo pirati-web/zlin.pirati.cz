@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Odpadky a kousek plastu'
-date: 2018-05-25T10:06:00.032Z
+date: 2018-05-23T10:06:00.032Z
 author: Irena Drofová
 authorId: irena.drofova
 image: /assets/img/posts/odpad2.jpg   
