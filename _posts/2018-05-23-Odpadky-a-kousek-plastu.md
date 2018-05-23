@@ -8,7 +8,6 @@ authorId: irena.drofova
 image: /assets/img/posts/odpad2.jpg   
 tags: 'Magistrát města Zlína odpad platby karty piráti-zlín '
 ---
-### Odpadky a kousek plastu
 
 První kvartál či spíše první polovina roku bývá pro občany ve znamení plateb. 
 Přichází vyúčtování za služby a platí se poplatky obcím. A právě města a obce by měla na své obyvatele myslet. 
