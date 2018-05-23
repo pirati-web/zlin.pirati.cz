@@ -5,7 +5,7 @@ title: 'Odpadky a kousek plastu'
 date: 2018-05-25T12:06:00.032Z
 author: Irena Drofová
 authorId: irena.drofova
-image: /assets/img/posts/prednaskaCAN.jpg   
+image: /assets/img/posts/odpad2.jpg   
 tags: 'Magistrát města Zlína odpad platby karty piráti-zlín '
 ---
 Odpadky a kousek plastu
