@@ -3,6 +3,7 @@ uid: jiri.jaros
 name:     Jiří Jaroš  	# běžně používáné jméno
 fullname: Jiří Jaroš  	# jméno s tituly etc.
 category:                   # kategorie: clenove
+- kontakt
 - clenove
 
 img: people/jiri-jaros.jpg   # 165 x 220
