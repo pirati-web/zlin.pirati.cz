@@ -3,7 +3,6 @@ uid: pirat.testovaci
 name:     Pirát Testovací  	# běžně používáné jméno
 fullname: Ing. Pirát Testovací  	# jméno s tituly etc.
 category:                   # kategorie
-- kontakt
 - kandidat
 
 img: people/ppp.jpg   # 165 x 220
