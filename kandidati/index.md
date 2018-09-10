@@ -5,11 +5,11 @@ rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
 
-1. [**Ing. Jiří Jaroš**](/lide/pirat-testovaci), 43 let, IT technik ,  Piráti
+1. [**Ing. Jiří Jaroš**](/lide/jiri-jaros), 43 let, IT technik ,  Piráti
 2. Jakub Stacke, 29let, pracovník klientského centra, Piráti
-3. Bc. Milan Klajn, 41 let,  plavčík,  Piráti
-4. Matěj Krajča, 21 let, obchodní zástupce, Piráti
-5. Martina Urbánková, 35let, asistentka, Piráti
+3. [**Bc. Milan Klajn**](/lide/milan-klajn), 41 let,  plavčík,  Piráti
+4. [**Matej Krajca**](/lide/matej-krajca), 21 let, obchodní zástupce, Piráti
+5. [**Martina Urbánková**](/lide/martina-urbankova), 35let, asistentka, Piráti
 6. Ing. Ph.D. Marek Jurča, 25let, student, Piráti
 7. Tereza Šprenclová, 18let, studentka, Piráti
 8. Ing.Mgr. Zuzana Fišerová, 38let, ekonom, bez politické příslušnosti
