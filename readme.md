@@ -1,6 +1,6 @@
-# jihomoravsky.pirati.cz
+# zlin.pirati.cz
 
-Naklonovaný web pirati.cz, z kterého vychází web JmK. Níže následuje obsah copypastovaný z centrální verze.
+Naklonovaný web pirati.cz, z kterého vychází web Zlína. Níže následuje obsah copypastovaný z centrální verze.
 ## Lokální spuštění
 
 Instalacee na Fedora 25: `dnf install rubygem-jekyll`
