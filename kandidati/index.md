@@ -6,7 +6,7 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 ---
 
 1. [**Ing. Jiří Jaroš**](/lide/jiri-jaros), 43 let, IT technik ,  Piráti
-2. Jakub Stacke, 29let, pracovník klientského centra, Piráti
+2. ~~Jakub Stacke, 29let, pracovník klientského centra, Piráti~~ [**odstoupil**](https://zlin.pirati.cz/aktuality/jakub-stacke-stahl-svou-kandidaturu.html)
 3. [**Bc. Milan Klajn**](/lide/milan-klajn), 41 let,  plavčík,  Piráti
 4. [**Matej Krajca**](/lide/matej-krajca), 21 let, obchodní zástupce, Piráti
 5. [**Martina Urbánková**](/lide/martina-urbankova), 35let, asistentka, Piráti
@@ -16,11 +16,11 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 9. Mgr. Roman Herink, 54let, speciální pedagog,  bez politické příslušnosti
 10. Ing.Bc. Irena Drofová, 35let, marketingový specialista, Piráti
 11. Ing.Ph.D. Petr Stloukal, 33let, technolog,  bez politické příslušnosti
-12. Ing. Kateřina Růžičková, 30let, vedoucí městského informačního centra Kunovice,  bez politické příslušnosti 
+12. Ing. Kateřina Růžičková, 30let, vedoucí městského informačního centra Kunovice,  bez politické příslušnosti
 13. Eliška Holšánová, 23let, ekonom, Piráti
-14. Ing. Michaela Jordánová, 30let, mateřská dovolená ,  bez politické příslušnosti 
+14. Ing. Michaela Jordánová, 30let, mateřská dovolená ,  bez politické příslušnosti
 15. Lucia Šiřínová, 37let,  produktový manažer,  bez politické příslušnosti
-16. Ing. Jiří Blažek, 62let, jednatel,  bez politické příslušnosti 
+16. Ing. Jiří Blažek, 62let, jednatel,  bez politické příslušnosti
 17. Rudolf Dostálek, 30let, rehabilitační pracovník,  bez politické příslušnosti
 18. Miroslav Šiřina, 37let, OSVČ,  bez politické příslušnosti
 19. Vladimír Bělík, 30let, technolog,  bez politické příslušnosti
