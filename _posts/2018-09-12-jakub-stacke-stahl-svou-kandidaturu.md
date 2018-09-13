@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Jakub Stacke, dvojka zlínské kandidátky, stáhl svou kandidaturu'
+title: 'Dvojka zlínské kandidátky Jakub Stacke stáhl svou kandidaturu'
 date: 2018-09-12
 author: Marek Houser
 authorId: marek.houser
