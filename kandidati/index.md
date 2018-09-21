@@ -31,7 +31,7 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 24. Jindřich Kovařík, 30let, obchodní manažer,  bez politické příslušnosti
 25. Eliška Chmelařová, 19let, studentka,  bez politické příslušnosti
 26. Filip Vlašič, 25let , pracovník v pohostinství,  bez politické příslušnosti
-27.Jiří Robenek, 28let, OSVČ,  bez politické příslušnosti
+27. Jiří Robenek, 28let, OSVČ,  bez politické příslušnosti
 28. Aleš Velísek, 32let, podnikatel,  bez politické příslušnosti
 29. Zuzana Králíková, 34let, plavčík,  bez politické příslušnosti
 30. Jitka Mlíčková, 34let, referentka,  bez politické příslušnosti
