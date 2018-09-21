@@ -46,3 +46,5 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 39. Ing. Alena Dobešová, 28let, předsedkyně spolku Udržitelný Zlín,  bez politické příslušnosti
 40. Lucien Vaculín, 27let, obchodní zástupce,  bez politické příslušnosti
 41. Radomír Čuřík, 38let, sazeč,  bez politické příslušnosti
+
+-
