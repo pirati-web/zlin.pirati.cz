@@ -23,6 +23,6 @@ je vysoká prašnost, tedy na větší betonové plochy. Nebo k dětským hři�
 spoustu. Stačí se podívat Evropských měst, podobné velikosti jako je Zlín. Řešení se nabízí dost, stačí,
 když budeme hledat a sdílet přínosné nápad, protože sdílení je aktem lásky a náš Zlín si lásku zaslouží.
 
-
+Autor: Irena Drofová
 
 - - -
