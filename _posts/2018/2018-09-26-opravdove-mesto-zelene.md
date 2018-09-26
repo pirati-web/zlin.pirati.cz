@@ -15,13 +15,6 @@ Jenže je potřeba si uvědomit že město zeleně, neznamená město „anglick
 stromů. To není cesta. Stejně jako není cesta vyschlé centrum města, které se přizpůsobuje autům,
 místo lidem.
 
-Víme, že pokud něco kritizujeme, měli bychom nabídnout řešení. Tím řešením je rozvoj a
-rehabilitace městské fauny a flory. **Místo invazních stromů bychom měli sázet tradiční odrůdy
-dřevin a rostlin. Do veřejného prostoru musíme začlenit více vodních prvků, obzvláště do míst kde
-je vysoká prašnost, tedy na větší betonové plochy.** Nebo k dětským hřištím. Možností máme
-spoustu. Stačí se podívat Evropských měst, podobné velikosti jako je Zlín. Řešení se nabízí dost, stačí,
-když budeme hledat a sdílet přínosné nápad, protože sdílení je aktem lásky a náš Zlín si lásku zaslouží.
-
 
 Autor: Irena Drofová
 
