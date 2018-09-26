@@ -1,24 +1,27 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Město současnosti i budoucnosti'
+title: 'Opravdové město zeleně'
 date: 2018-09-26T08:06:00.032Z
 author: Irena Drofová
 authorId: irena.drofova
 image: /assets/img/posts/mesto-zelene.jpg   
-tags: 'Město současnosti i budoucnosti'
+tags: 'greencity'
 ---
 
-Spolu s jednou z hlavních priorit Pirátů, kterou je transparentnost, jde ruku v ruce také potřeba moderních postupů. 
-S rychlým vzestupem a zaváděním digitálních technologií je nutné, aby město drželo krok a bylo v tomto směru flexibilní. 
+My Zlíňáci se často chlubíme tím, že naše město, je městem zeleně. A máme se čím chlubit.
+Zlínští Piráti by byli rádi, aby se zeleným městem mohli chlubit i naše děti. **Nenechme si namluvit, že
+situace je stabilní a zeleň ve městě se rozvíjí.** Samozřejmě, budují se nové parky, sází se stromy.
+Jenže je potřeba si uvědomit že město zeleně, neznamená město „anglického trávníku“ a invazivních
+stromů. To není cesta. Stejně jako není cesta vyschlé centrum města, které se přizpůsobuje autům,
+místo lidem.
 
-**Město, které je připravené na změny, jež nutně budou v následujících letech probíhat také na celorepublikové úrovni.**
-Zlín by však měl začít sám u sebe a vyjít vstříc novým potřebám jeho občanů, které se v duchu dnešní doby nesou. Je úsměvné, 
-když vám po dvou letech od odhlášení psa na úřadu, přijde výzva k zaplacení poplatku za něj. Nebo když musíte běhat z úřadu na úřad tam a zpět, protože si úřady neumějí sdílet data mezi sebou. 
-
-Základem je budování a sdílení kvalitních databází a schopnost je optimálně využívat a pracovat s nimi. Ulehčit lidem jednání s úřady tak, aby si nemuseli na plnění svých povinností brát dovolenou. **Začít opravdu chápat pravý smysl pojmu „e-government“.** Inspiraci i zkušenosti najdeme v mnoha našich městech i v zahraničí. Vytváření a využívání aplikací, které usnadňují každodenní život občanů, nemusí být vždy spojeno se složitým a nákladným procesem. Ať už se jedná o svoz komunálního odpadu, placení poplatků či vyhledání a získávání informací.
-
-Piráti se dlouhodobě věnují této problematice a jsou schopni nabízet i vytvářet co nejjednodušší řešení. Nejen internet je naše moře.
+Víme, že pokud něco kritizujeme, měli bychom nabídnout řešení. Tím řešením je rozvoj a
+rehabilitace městské fauny a flory. **Místo invazních stromů bychom měli sázet tradiční odrůdy
+dřevin a rostlin. Do veřejného prostoru musíme začlenit více vodních prvků, obzvláště do míst kde
+je vysoká prašnost, tedy na větší betonové plochy.** Nebo k dětským hřištím. Možností máme
+spoustu. Stačí se podívat Evropských měst, podobné velikosti jako je Zlín. Řešení se nabízí dost, stačí,
+když budeme hledat a sdílet přínosné nápad, protože sdílení je aktem lásky a náš Zlín si lásku zaslouží.
 
 Autor: Irena Drofová
 
