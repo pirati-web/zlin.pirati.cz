@@ -26,7 +26,6 @@ zájemců, a tím dosáhnout nižší ceny a vyšší kvality budovaného díla.
 byly s dostatečným předstihem zveřejněny na Internetu.
 
 Pevně věříme, že se nám to s vaší podporou podaří a držíme kurz!!!
-Autor: Jiří Jaroš
 
 
 
