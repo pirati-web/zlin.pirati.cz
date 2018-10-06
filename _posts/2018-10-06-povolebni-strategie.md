@@ -22,7 +22,7 @@ Vítěz z pirátské kandidátky je pověřen komunikovat s médii při hodnocen
 **Hned po volbách**
 
 Zvolení zastupitelé a členové předsednictva MS Zlín
-Se sejdou den po volbách - v neděli 7. října v 14 hodin jako klub zastupitelů.
+Se sejdou den po volbách - **v neděli 7. října v 14 hodin jako klub zastupitelů**.
 Na tomto setkání si zvolí budoucí zastupitelé tříčlenný vyjednávací tým a domluví se na podrobné strategii pro vyjednávání na základě síly mandátu jednotlivých stran.
 Vyjednávání vede vítěz pirátské kandidátky, pokud bude zastupitelem. Asistuje mu při tom vyjednávací tým. Informace z každého jednání zveřejní vyjednávací tým do 24 hodin.
 Po projednání výsledku vyjednávání s klubem a předsednictvem MS bude předložen návrh rozhodnutí o konkrétní podobě povolební spolupráce (včetně členů rady, návrhu na starostu a místostarosty) do referenda na jednání fóra MS Zlín. Členové MS Zlín schvalují návrh koaliční smlouvy.
@@ -32,7 +32,7 @@ Bez ohledu na rozložení mandátů jsme připraveni spolupracovat na prosazení
 
 **SCÉNÁŘE SPOLUPRÁCE S OSTATNÍMI STRANAMI:**
 
-Účast na radě
+**Účast na radě**
 Jsme připraveni jednat o účasti v radě města s cílem prosadit maximum našeho programu. V případě vítězství ve volbách nominujeme na primátora vítěze kandidátky (ovšem s přihlédnutím ke kumulaci uvolněných funkcí - např. poslanec by měl možnost vykonávat pouze jednu z těchto pozic). Prioritou je pro nás prosazení maxima volebního programu do koaliční smlouvy, proto při prvních jednáních budeme hledat programové shody s možnými koaličními partnery. Pokud se dohodneme na programu a budeme schopni sestavit koalici, budeme trvat na tom, aby koaliční partneři nominovali do rady pouze bezúhonné osoby, které nezastávají jinou uvolněnou veřejnou funkci. Stejné podmínky budeme dodržovat sami.
 
 Spolupráci v radě odmítáme s KSČM, SPD, jejíž účast na demokratické politice považujeme za nepřijatelnou, a také s hnutím Rozhybejme Zlín, které ovlivňuje senátor Valenta, jenž byl usvědčen z korupčního jednání.
@@ -54,11 +54,17 @@ hlasování koaličního zastupitele u bodu, kdy je daný zastupitel ve střetu 
 **Spory v koalici**
 
 Spory v koalici budeme řešit v okamžiku jejich vzniku, problémy nebudeme odsouvat. O problémech budeme věcně informovat veřejnost a budeme se všemožně snažit nalézt příčiny a řešení těchto neshod.
-Konstruktivní opozice
+
+**Konstruktivní opozice**
+
 Pokud povolební jednání nedopadnou sestavením koalice za účasti Pirátů, budou pirátští zastupitelé v rámci možností jim daných, zastupovat obyvatele na zastupitelstvu a v komisích. I z opozičních míst lze předkládat návrhy a podněty na zastupitelstvu. Budeme se snažit získat podporu pro naše programové body pomocí podpory napříč stranami. Demokraticky zvolenou radu budeme respektovat a nebudeme se snažit bezhlavě a za každou cenu vyvolat její pád. Pokud však koalice bez účasti Pirátů nebude ochotna respektovat principy otevřenosti, nebude zveřejňovat připravované záměry v předstihu a informovat veřejnost otevřeně, budeme se snažit tyto netransparentní praktiky všemi možnými způsoby zvrátit. Podobně též učiníme v případě podezření z velmi závažného pochybení některého zastupitele z koaličních stran nebo krytí takového jednání úřadu.
-Propojení v rámci republiky
+
+**Propojení v rámci republiky**
+
 Budeme se snažit v rámci republiky najít spolupracující města, v rámci kterých budeme rozvíjet projekty Smart city a vyvíjet chytré aplikace pro řízení a obsluhu města, městského úřadu a komunikace mezi občany a městem a to i v případě, že budeme v opozici. Tato řešení se pak budeme snažit prosadit i ve Zlíně.
-Nábor členů a komunikace ve straně a k občanům
+
+**Nábor členů a komunikace ve straně a k občanům**
+
 Piráti jsou otevřená strana jak novým myšlenkám, tak novým lidem. V případě volebního úspěchu a zvýšeného zájmu o členství se budeme snažit podpořit nadšení nově příchozích členů a zapojit je do rozhodování. Zároveň chceme všem občanům zprostředkovat maximální množství informací ze zastupitelstva, rady města, komisí a výborů. Budeme se proto snažit, aby maximum těchto jednání bylo veřejných a existovaly z nich veřejně dostupné zápisy a u zastupitelstva i zpětně přístupné videopřenosy.
 
 
