@@ -24,7 +24,9 @@ Vítěz z pirátské kandidátky je pověřen komunikovat s médii při hodnocen
 Zvolení zastupitelé a členové předsednictva MS Zlín
 Se sejdou den po volbách - **v neděli 7. října v 14 hodin jako klub zastupitelů**.
 Na tomto setkání si zvolí budoucí zastupitelé tříčlenný vyjednávací tým a domluví se na podrobné strategii pro vyjednávání na základě síly mandátu jednotlivých stran.
+
 Vyjednávání vede vítěz pirátské kandidátky, pokud bude zastupitelem. Asistuje mu při tom vyjednávací tým. Informace z každého jednání zveřejní vyjednávací tým do 24 hodin.
+
 Po projednání výsledku vyjednávání s klubem a předsednictvem MS bude předložen návrh rozhodnutí o konkrétní podobě povolební spolupráce (včetně členů rady, návrhu na starostu a místostarosty) do referenda na jednání fóra MS Zlín. Členové MS Zlín schvalují návrh koaliční smlouvy.
 Vztah klubu k ostatním subjektům
 
