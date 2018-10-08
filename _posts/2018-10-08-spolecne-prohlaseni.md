@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'POVOLEBNÍ STRATEGIE PIRÁTŮ ZLÍN PRO KOMUNÁLNÍ VOLBY 2018'
+title: 'Společné prohlášení po volbách'
 date: 2018-10-06T08:06:00.032Z
 author: Jiří Jaroš 
 authorId: jiri.jaros
