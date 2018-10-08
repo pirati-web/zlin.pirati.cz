@@ -5,7 +5,7 @@ title: 'POVOLEBNÍ STRATEGIE PIRÁTŮ ZLÍN PRO KOMUNÁLNÍ VOLBY 2018'
 date: 2018-10-06T08:06:00.032Z
 author: Irena Drofová
 authorId: irena.drofova
-image: /assets/img/posts/altanek.jpg   
+image: /assets/img/posts/piratinovysvet.jpg   
 tags: 'volby2018'
 ---
 
