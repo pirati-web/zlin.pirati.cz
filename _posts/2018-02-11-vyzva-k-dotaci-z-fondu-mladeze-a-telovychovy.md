@@ -18,7 +18,7 @@ Vyhlášenými dotačními programy jsou:
 * Podpora sportovních akcí, které mají sportovní charakter a proběhnou ve Zlíně v I. čtvrtletí roku 2019, ukončení příjmu žádostí je 11.2.2019
 * Činnost sportovních organizací, působících na území města Zlína v roce 2019, ukončení příjmu žádostí je 11.2.2019.
 
-Výzvy na podávání žádostí o dotace z fondu mládeže a tělovýchovy naleznete zde:
+Výzvy na podávání žádostí o dotace z Fondu mládeže a tělovýchovy naleznete zde:
 [https://www.zlin.eu/fond-mladeze-a-telovychovy-cl-2997.html](https://www.zlin.eu/fond-mladeze-a-telovychovy-cl-2997.html)
 
 
