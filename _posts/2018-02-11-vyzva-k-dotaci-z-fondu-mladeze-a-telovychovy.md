@@ -6,7 +6,7 @@ date: 2019-01-11T08:06:00.032Z
 author: Martina Urbánková
 authorId: martina.urbankova
 image: /assets/img/posts/fondmladezeatelovychovy.jpg   
-tags: 'sport, tělovýchova, mládež, dotace'
+tags: 'sport tělovýchova mládež dotace'
 ---
 
 Jste sportovec, pracujete s mládeží či dětmi, organizujete sportovní akce, leží Vám na srdci blaho naší mládeže? Jste dobrovolník? Sháníte peníze od sponzorů a potýkáte se s nedostatečným zájmem a financemi pro rozvoj Vaší organizace či akce? Využijte dotačních prostředků z fondu Správní rada fondu mládeže a tělovýchovy města Zlína.
