@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Pirátské putování z Arktidy do Zlína'
 date: 2019-03-19T08:06:00.032Z
-author: Irena Drofová / Foto: Jiří Lehejček
+author: Irena Drofová
 authorId: irena.drofova
 image: /assets/img/posts/arktida-2019.jpg   
 tags: 'ekologie arktida oteplování'
