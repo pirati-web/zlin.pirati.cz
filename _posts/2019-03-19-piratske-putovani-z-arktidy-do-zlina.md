@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pirátské putování Z Arktidy do Zlína'
+title: 'Pirátské putování z Arktidy do Zlína'
 date: 2019-03-19T08:06:00.032Z
 author: Irena Drofová / Foto: Jiří Lehejček
 authorId: irena.drofova
