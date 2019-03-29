@@ -13,7 +13,7 @@ Nejbližším záměrem zlínských Pirátů je vybudovat v blízkém okolí Zl
 
 Jedná se především o stezky určené pro horské kolo, tzv. singletraily (singletracky). Součástí by dále mohlo být skillcentrum včetně pumptracku pro trénování jízdních dovedností. Vybudována by mohla být také „základna“, resp. zázemí pro cyklisty s toaletami a občerstvením, popřípadě i půjčovna kol. „Myšlenka je vedena jednak tímto velkým trendem v oblasti cyklistiky, také však skutečností, že tento sport může být dostupný všem obyvatelům Zlína. Podpoří nejen děti, mládež i dospělé ve sportování v přírodě, ale také rozšíří možnost aktivního trávení volného času v blízkosti města“ zdůvodňuje záměr Zuzana Fišerová.
 
-V rámci konzultací s panem Volrábem, předsedou České mountainbikové asociace (ČeMBA) se hovořilo o vhodných lokalitách, kde by mohly traily vzniknout. Je potřeba provést podrobnou analýzu vytipovaných míst a lokalit. Za tímto účelem byla také organizace  ČeMBA, která zaštiťuje terénní cyklistiku, oslovena. Město Zlín již zaslalo oragnizaci objednávku na zmapování vhodné lokality a současně také probíhá analýza možnosti získání dotací na tento projekt.
+V rámci konzultací s Václavem Volrábem, předsedou České mountainbikové asociace (ČeMBA) se hovořilo o vhodných lokalitách, kde by mohly traily vzniknout. Je potřeba provést podrobnou analýzu vytipovaných míst a lokalit. Za tímto účelem byla také organizace  ČeMBA, která zaštiťuje terénní cyklistiku, oslovena. Město Zlín již zaslalo oragnizaci objednávku na zmapování vhodné lokality a současně také probíhá analýza možnosti získání dotací na tento projekt.
 
 Zlínští Piráti jsou také sami aktivními sportovci. Chtějí dlouhodobě podporovat a rozšiřovat možnosti všestrannost i dostupnost sportovních aktivit ve Zlíně. 
 
