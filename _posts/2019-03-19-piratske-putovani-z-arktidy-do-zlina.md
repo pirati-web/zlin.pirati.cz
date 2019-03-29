@@ -9,7 +9,7 @@ image: /assets/img/posts/arktida-2019.jpg
 tags: 'ekologie arktida oteplování'
 ---
 
-3. 4. 2019 se bude konat v Novém světě ve Zlíně cestopisná přednáška s velmi zajímavým tématem. Piráti Jiří Lehejček, polární ekolog a viceprezident Evropského ekozemědělského hnutí, představí spolu s Janem Nezhybou veřejnosti souvislost mezi výzkumem v Arktidě a českými městy. Akci zpestří historky a nádherné fotografie z cest severem.
+Třetího dubna 2019 se bude konat v Novém světě ve Zlíně cestopisná přednáška s velmi zajímavým tématem. Piráti Jiří Lehejček, polární ekolog a viceprezident Evropského ekozemědělského hnutí, představí spolu s Janem Nezhybou veřejnosti souvislost mezi výzkumem v Arktidě a českými městy. Akci zpestří historky a nádherné fotografie z cest severem.
 
 Polární oblasti představují jedny z posledních bílých míst na naší planetě. O historii a vývoji klimatu toho víme kvůli absenci meteorologických stanic minimum. Arktida je přitom lakmusovým papírkem klimatických změn. Nárůst teplot je tam desetkrát rychlejší než v Evropě. *„Jsou ovšem i jiné metody, jak zjistit, co se na severu děje a co razantně přichází také do našich končin“* říká Jiří Lehejček. Co to však znamená pro nás a co s tím můžeme dělat? Je toho mnoho! A právě to chtějí oba pirátští řečníci sdílet se zlínskou veřejností. *„Je důležité věnovat pozornost této problematice. Uvědomujeme si, že ač se jedná o globální téma, jsme také my jeho součástí a přímo se nás dotýká také v našem městě“* doplňuje Jiří Jaroš. Přednáška chce vzbudit zájem veřejnosti a sdělit jí, že naše města mohou zůstat příjemným místem k životu a náš venkov se nemusí změnit v poušť. Je třeba „jen“ vědět jak, mít vizi i ambici.
 
