@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Piráti ve Zlíně prosazují inteligentní dopravní systém'
 date: 2019-04-05T10:06:00.032Z
 author: Mediální odbor
-authorId: medailni.odbor
+authorId: medialni.odbor
 image: /assets/img/posts/inteligentni-doprava-2019.jpg   
 tags: 'smartcity doprava řízení'
 ---
