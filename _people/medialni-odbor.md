@@ -1,0 +1,17 @@
+---
+uid: medialni.odbor
+name:     Mediální odbor  	# běžně používáné jméno
+fullname: Mediální odbor  	# jméno s tituly etc.
+category:                   # kategorie: clenove
+- kontakt
+- clenove
+
+img: people/medialni-odbor.jpg   # 165 x 220
+description: Mediální odbor místní združení Pirátské strany.
+mob: 
+mail:
+- jaromir.horky@pirati.cz
+profiles:
+  facebook: https://www.facebook.com/PiratiZlin/
+---
+
