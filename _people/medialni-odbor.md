@@ -14,4 +14,4 @@ mail:
 profiles:
   facebook: https://www.facebook.com/PiratiZlin/
 ---
-
+Mediální odbor místního sdružení Pirátské strany.
