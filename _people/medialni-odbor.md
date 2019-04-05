@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/medialni-odbor.jpg   # 165 x 220
-description: Mediální odbor místní združení Pirátské strany.
+description: Mediální odbor místní sdružení Pirátské strany.
 mob: 
 mail:
 - jaromir.horky@pirati.cz
