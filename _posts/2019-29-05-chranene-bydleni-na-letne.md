@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Ve Zlíně vzniknou byty sociální rehabilitace'
-date: 2019-29-05T08:06:00.032Z
+date: 2019-05-29T08:06:00.032Z
 author: Mediální odbor
 authorId: medialni.odbor
 image: /assets/img/posts/chranene-bydleni-na-letne-2019.jpg  
