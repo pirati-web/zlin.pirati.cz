@@ -5,7 +5,7 @@ title: 'Díky Pirátům se zprůchodnil chodník na křižovatce ulic Hluboká a
 date: 2019-03-09T06:06:00.032Z
 author: Mediální odbor
 authorId: medialni.odbor
-image: /assets/img/posts/chodnik-hluboka-stefanikova.jpg   
+image: /assets/img/posts/chodnik-hluboka-stefanikova.jpg
 tags: 'majetek výpůjčky'
 ---
 
