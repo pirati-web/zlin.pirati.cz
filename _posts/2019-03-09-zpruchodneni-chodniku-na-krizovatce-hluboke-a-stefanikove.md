@@ -2,10 +2,10 @@
 layout: blog
 category: CLANKY
 title: 'Díky Pirátům se zprůchodnil chodník na křižovatce ulic Hluboká a Štefánikova'
-date: 2019-09-03T10:06:00.032Z
+date: 2019-09-03T06:06:00.032Z
 author: Mediální odbor
 authorId: medialni.odbor
-image: /assets/img/posts/chodnik-hluboka-stafanikova.jpg   
+image: /assets/img/posts/chodnik-hluboka-stefanikova.jpg   
 tags: 'majetek výpůjčky'
 ---
 
