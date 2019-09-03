@@ -30,7 +30,7 @@ situace pro pěší.
 
 Piráti se také budou dotazovat, proč podobné projekty nejsou vždy zpoplatněny a do budoucna
 budou prosazovat jednotný postup při řešení výpůjček a záborů veřejného prostranství.
-Pokud byste měli podnět k řešení podobné situace, neváhejte se na nás obrátit na emailu [mailto](jiri.jaros@pirati.cz)
+Pokud byste měli podnět k řešení podobné situace, neváhejte se na nás obrátit na emailu <jiri.jaros@pirati.cz>
 Pokusíme se předat vše k řešení příslušnému odboru. Město by mělo sloužit
 občanům, nikoliv občané městu.
 
