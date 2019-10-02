@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti ve Zlíně se zabývají vizuálním smogem v centrum města'
+title: 'Piráti ve Zlíně se zabývají vizuálním smogem v centru města'
 date: 2019-10-01T06:06:00.032Z
 author: Mediální odbor
 authorId: medialni.odbor
