@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - pms
 
 img: people/milan-klajn.jpg   # 165 x 220
-description: 2. místopředseda MS ZL, plavčík, terapeut # kratký popis, max 160 znaků
+description: 1. místopředseda MS ZL, zastupitel # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
