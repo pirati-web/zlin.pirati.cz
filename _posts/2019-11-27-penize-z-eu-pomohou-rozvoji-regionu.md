@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Peníze z EU pomohou rozvoji regionu'
-date: 2019-11-27T17:06:00.032Z
+date: 2019-11-27T10:06:00.032Z
 author: Mediální odbor
 authorId: medialni.odbor
 image: /assets/img/posts/penize-z-eu-pomohou-rozvoji-regionu.jpg
