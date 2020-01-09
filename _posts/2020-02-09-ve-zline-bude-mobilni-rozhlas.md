@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Ve Zlíně bude fungovat mobilní rozhlas, občanům umožní i komunikaci s úřadem'
-date: 2019-02-09T05:06:00.032Z
+date: 2020-02-09T05:06:00.032Z
 author: Mediální odbor
 authorId: medialni.odbor
 image: /assets/img/posts/monilni-rozhlas-ve-zline.jpg
