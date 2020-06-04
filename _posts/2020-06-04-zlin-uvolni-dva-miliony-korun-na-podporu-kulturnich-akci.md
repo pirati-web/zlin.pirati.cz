@@ -5,7 +5,7 @@ title: 'Zlín uvolní dva miliony korun na podporu kulturních akcí'
 date: 2020-06-04
 author: Josef Indra
 authorId: josef.indra
-image: /assets/img/posts/kulturazlin.jpg
+image: /assets/img/posts/kulturavezline.jpg
 tags: 'zlin kultura zuzana-fiserova'
 ---
 
