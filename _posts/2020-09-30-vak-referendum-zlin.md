@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: blog
 category: CLANKY
 title: 'Piráti ve Zlínském kraji podporují referendum ve Zlíně a souhlasí, aby město Zlín nepokračovalo ve stávajícím provozním modelu'
 date: 2020-09-30
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/vodavak.jpg
-tags: 
-- voda
-- tomas-cabla
-- vratislav-krejcir
+image: /assets/img/posts/vodavak.jpg
+tags: 'voda tomas-cabla vratislav-krejcir'
 ---
 
 Krajské fórum Pirátů ve Zlínském kraji se ve svém hlasování usneslo, že podporuje třetí otázku referenda vyhlášené ve Zlíně a souhlasí, aby město Zlín nepokračovalo v modelu provozování vodohospodářské infrastruktury, kdy je tato infrastruktura pronajímána společnosti Moravská vodárenská a.s.
