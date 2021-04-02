@@ -10,6 +10,7 @@ tags:
 - rozhlas
 - mobilni-rozhlas 
 - informace
+important: true
 ---
 
 Cílem Pirátů ve Zlíně je zlepšit informovanost občanů, aby jim neunikly podstatné informace o stavu ovzduší, uzavírkách, blokovém čištění nebo hrozících nebezpečích. „Velmi podstatná je pro mě i možnost, že občané mohou pomocí mobilní aplikace hlásit černé skládky, poškozený veřejný majetek a další věci, které je znepokojují,“ říká radní pro oblast IT **Jiří Jaroš**.

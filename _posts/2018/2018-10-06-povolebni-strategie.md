@@ -8,6 +8,7 @@ authorId: irena.drofova
 image: posts/piratinovysvet.jpg   
 tags: 
 - volby2018
+important: true
 ---
 
 Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak

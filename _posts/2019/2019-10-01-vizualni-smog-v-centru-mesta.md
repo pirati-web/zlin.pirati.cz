@@ -10,6 +10,7 @@ tags:
 - reklama
 - regulace
 - smog
+important: true
 ---
 
 Reklamy, kam se podíváš, nevzhledné nápisy a rušivé cedule po celém centru – je to dobře nebo už to zachází příliš daleko? Pirátská zastupitelka **Zuzana Fišerová** se začala zabývat vizuálním smogem ve Zlíně a iniciovala koncepční řešení této problematiky.

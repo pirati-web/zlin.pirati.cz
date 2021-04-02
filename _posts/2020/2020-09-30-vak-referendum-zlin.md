@@ -10,6 +10,7 @@ tags:
 - voda
 - tomas-cabla
 - vratislav-krejcir
+important: true
 ---
 
 Krajské fórum Pirátů ve Zlínském kraji se ve svém hlasování usneslo, že podporuje třetí otázku referenda vyhlášené ve Zlíně a souhlasí, aby město Zlín nepokračovalo v modelu provozování vodohospodářské infrastruktury, kdy je tato infrastruktura pronajímána společnosti Moravská vodárenská a.s.

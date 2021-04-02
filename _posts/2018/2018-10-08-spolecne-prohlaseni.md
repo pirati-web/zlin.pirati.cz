@@ -8,6 +8,7 @@ authorId: jiri.jaros
 image: posts/piratinovysvet.jpg   
 tags: 
 - vyjednavani
+important: true
 ---
 
 KDU, ODS a Piráti se dohodli na společném postupu pro povolební vyjednávání. Cílem je nabídnout samotné zjednodušení procesu vyjednávání, maximální transparentnost a přehlednost pro veřejnost. Zároveň plně respektujeme volební zisky zvolených subjektů.

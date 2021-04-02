@@ -10,6 +10,7 @@ tags:
 - zlin
 - kultura
 - zuzana-fiserova
+important: true
 ---
 
 Až 65 kulturních projektů získá ve druhém pololetí letošního roku podporu z Kulturního fondu Statutárního města Zlín. Mezi organizátory bude z tohoto fondu rozděleno více než 2 miliony korun.

@@ -8,6 +8,7 @@ authorId: irena.drofova
 image: posts/mesto-zelene.jpg   
 tags: 
 - Město současnosti i budoucnosti
+important: true
 ---
 
 Spolu s jednou z hlavních priorit Pirátů, kterou je transparentnost, jde ruku v ruce také potřeba moderních postupů. 

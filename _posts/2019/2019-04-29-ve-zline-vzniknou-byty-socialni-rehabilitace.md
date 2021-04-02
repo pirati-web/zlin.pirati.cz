@@ -11,6 +11,7 @@ tags:
 - bydleni
 - pomoc
 - rehabilitace
+important: true
 ---
 
 Ve čtvrtek 25. dubna Zlínští zastupitelé schválili rozpočtové opatření pro vznik sociálních bytů. Toto bydlení má sloužit zejména pro lidi, kteří se vracejí z psychiatrické léčebny do normálního života, tito klienti zde získají zázemí, které aktuálně Zlínu schází. Duševně nemocní se v těchto zařízeních naučí samostatnosti, k dispozici však budou mít nepřetržitou odbornou pomoc.

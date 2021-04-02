@@ -10,6 +10,7 @@ tags:
 - traily 
 - mtb
 - sport
+important: true
 ---
 
 Nejbližším záměrem zlínských Pirátů je vybudovat v blízkém okolí Zlína sportoviště pro terénní cyklistiku. Inspirací pro takzvané trailové hřiště bylo zejména to trutnovské, které je jedno z nejlepších v zemi. Plnou parou se do prosazení realizace záměru pustila pirátská zastupitelka Zuzka Fišerová, spolu s radním Jiřím Jarošem, který se stal součástí pracovní skupiny pro tento projekt. 
