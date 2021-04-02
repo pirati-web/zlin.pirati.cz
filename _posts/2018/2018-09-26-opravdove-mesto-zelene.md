@@ -1,12 +1,13 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Opravdové město zeleně'
 date: 2018-09-26T08:06:00.032Z
 author: Irena Drofová
 authorId: irena.drofova
-image: /assets/img/posts/mesto-zelene.jpg   
-tags: 'greencity'
+image: posts/mesto-zelene.jpg   
+tags: 
+- greencity
 ---
 My Zlíňáci se často chlubíme tím, že naše město, je městem zeleně. A máme se čím chlubit.
 Zlínští Piráti by byli rádi, aby se zeleným městem mohli chlubit i naše děti. Nenechme si namluvit, že

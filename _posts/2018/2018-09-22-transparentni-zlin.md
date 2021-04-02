@@ -1,12 +1,13 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Transparentní Zlín'
 date: 2018-09-22T08:06:00.032Z
 author: Jiří Jaroš
 authorId: jiri.jaros
-image: /assets/img/posts/mesto-zelene.jpg   
-tags: 'tranparentnost'
+image: posts/mesto-zelene.jpg   
+tags: 
+- tranparentnost
 ---
 
 Jednou z hlavních priorit pirátského programu v nadcházejících komunálních volbách ve Zlíně bude

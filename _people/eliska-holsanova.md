@@ -1,18 +1,18 @@
 ---
 uid: eliska.holsanova
 name:     Eliška Holšánová  	# běžně používáné jméno
-fullname: Eliška Holšánová 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- pms
 
 img: people/eliska-holsanova.jpg   # 165 x 220
-description: 4. místopředsedkyně MS ZL, studentka # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: studentka # kratký popis, max 160 znaků
 mail:
 - eliska.holsanova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/eliska.ulehlova
-ordpms: 5
 ---
 
 Eliška Holšánová (*12. srpna 1994, Zlín) je místopředsedkyní MS Zlín. Aktuálně žije ve Zlíně, kam se po studiích v Praze a ve Frankfurtu nad Mohanem se svou rodinou vrátila.

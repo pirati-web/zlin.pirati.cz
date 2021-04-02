@@ -1,18 +1,19 @@
 ---
 uid: martina.urbankova
 name:     Martina Urbánková  	# běžně používáné jméno
-fullname: Martina Urbánková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- pms
+
 
 img: people/martina-urbankova.jpg   # 165 x 220
-description: 1. místopředsedkyně MS ZL, asistentka # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: backoffice manager<br>Zlín # kratký popis, max 160 znaků
 mail:
 - martina.urbankova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martina.urbanek.7
-ordpms: 2
 ---
 
 Martina Urbánková (*13.  září 1982) je místopředsedkyní MS Zlín. K Pirátům vstoupila kvůli neutěšené situaci na politické scéně a osobní motivaci něco změnit.
