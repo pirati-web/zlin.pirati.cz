@@ -22,12 +22,12 @@ main:
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
-  - link: /volby-2020/
-    name: Krajské volby
-    match: volby-2020
-  - link: /kde-jsme/
-    name: Kde jsme?
-    match: kde-jsme  
+  - link: /komunalni-program/
+    name: Komunální program
+    match: komunalni-program
+  # - link: /kde-jsme/
+  #   name: Kde jsme?
+  #   match: kde-jsme  
   # - link: /volby-2018/
   #   name: Volby 2018
   #   match: volby-2018
@@ -48,7 +48,7 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /zajemci/
+      - link: "https://zlinsky.pirati.cz/zajemci/"
         name: Zájemci o členství
       - link: /kontakt/
         name: Dej nám vědět
