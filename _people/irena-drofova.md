@@ -15,7 +15,7 @@ mail:
 profiles:
   
 ---
-
+Od roku 2021 pozastavené členství pro dlouhodobý nesoulad v plnění pirátského programu a vizí na komunální, krajské i celostátní úrovni.
 
 
 # ČLÁNKY AUTORKY IRENA DROFOVÁ
